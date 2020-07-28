@@ -2,8 +2,14 @@ Main Deployed Meta-Mask Account -
 
 https://ropsten.etherscan.io/tx/0x43b0cdb1de5bb35f1a7b18d803faa0dff2b1976587fc72108eed155fc19d139b
 
-View Student 1 Transaction detail at:
-https://ropsten.etherscan.io/tx/0xbb13adc4fa9ec0bcf09e3c6a296214c1aa3d69a0204ea10af931461a6f77d6df
+View Porkodi (Student 1) Transaction detail at:
+https://ropsten.etherscan.io/tx/0x94edae46e89c487d3fc4a1ec074e7ccfb6ee1f2abcbf78d7895fedf3ac1c3110
 
-View Student 2 Transaction details at:
+View Porkodi (Student 1) Report Card at:
+https://ropsten.etherscan.io/address/0x0daeb95f592128275c96f3890d28ea49cb564807#readContract
+
+View Zoya (Student 2) Transaction details at:
 https://ropsten.etherscan.io/tx/0x9ae27d56e5bf6311868701e4426758e0ec578c7d307f087b2a45afa449b6a7b5
+
+View Zoya (Student 2) Report Card at:
+https://ropsten.etherscan.io/address/0x17d32ae3572ac7d38529a7a97dc5734ada01c4a4#readContract
