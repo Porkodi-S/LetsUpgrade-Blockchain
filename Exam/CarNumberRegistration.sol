@@ -15,6 +15,8 @@ contract Car{
     } 
 }
 
+//Car Registration Details are Stored in the Blockchain Database which can be viewed later by using the Contract Address
+
 Transaction 1 Address:
 https://ropsten.etherscan.io/address/0x2954fd216ff88e25d5c61071a24676e54762602a#readContract
 
